@@ -1,0 +1,37 @@
+#---------------------------------------------------------------------------
+# Ignore file for git
+#---------------------------------------------------------------------------
+#  Project:       learn2love
+#  Author:        Stefan Laubenberger (las)
+#  Created:       02.08.2013
+#---------------------------------------------------------------------------
+# History:
+#  Date:       Who:  What:
+#  02.08.2013  las   Initial release
+#-----------------------------------------------------------------------------
+        
+# Generic files to ignore
+*~
+*.lock
+*.DS_Store
+*swp
+*.out
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.log
+*.tmp
+*.bak
+
+# Other vcs
+.svn
+.svnignore
+CVS/
+.cvsignore
+
+# Enterprise Architect specific
+*.ldb
+
+
