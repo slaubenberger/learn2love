@@ -1,10 +1,23 @@
 # learn2love
 
-My projects to learn some "löve".
-Based on the 0.8.0 version from [http://www.love2d.org][http://www.love2d.org].
+## Description
+My projects to learn some [http://www.love2d.org]("löve")   
+All demos are based on the **0.8.0** version - just install it and feel free to download and execute the *love* files from the *demo* directories.
 
-## demo001
-Simple grid-lock example
+## Demos
+### demo001
+Simple grid-lock example with sfx and music :-)
 
-## demo002
+### demo002
 Menu and multi file example
+
+### demo003
+Skeleton structure for my future projects, incl. debug and screen resizing
+
+## Links
+- [http://www.love2d.org]("löve homepage") 
+- [http://www.lua.org/]("Lua homepage") 
+- [http://en.wikipedia.org/wiki/Lua_%28programming_language%29](Lua (Wikipedia))
+
+
+`Version: 05.08.2013 03:10 CEST`
