@@ -23,6 +23,9 @@ Testing some "oo"-like techniques with tables
 ### demo006
 Psychodelic ellipses ;-)
 
+### demo007
+First real game: Ballon shooter
+
 ## Links
 - [http://www.love2d.org]("löve homepage") 
 - [http://www.lua.org/]("Lua homepage") 

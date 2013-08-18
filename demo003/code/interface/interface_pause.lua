@@ -9,7 +9,7 @@ function interface.draw()
     
     love.graphics.setFont(love.graphics.newFont(48))
 
-	love.graphics.setColor(127, 2555, 127)
+	love.graphics.setColor(127, 255, 127)
 
     love.graphics.printf("Pause", love.graphics.getWidth() * 0.5, love.graphics.getHeight() * 0.5, 0, "center")
 end
