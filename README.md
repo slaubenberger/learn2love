@@ -20,6 +20,9 @@ Simple test of "LöveFrames" [https://github.com/NikolaiResokav/LoveFrames]("Lö
 ### demo005
 Testing some "oo"-like techniques with tables
 
+### demo006
+Psychodelic ellipses ;-)
+
 ## Links
 - [http://www.love2d.org]("löve homepage") 
 - [http://www.lua.org/]("Lua homepage") 
