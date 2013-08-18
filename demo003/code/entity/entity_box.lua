@@ -6,7 +6,7 @@ entity.directionY = 1
 entity.x = 0
 entity.y = 0
 entity.id = nil
-entity.speed = math.random(1, 24)
+entity.speed = math.random(1, 64)
 
 -- entity.health = 1
 

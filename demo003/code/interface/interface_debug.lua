@@ -49,7 +49,7 @@ function interface.joystickpressed(joystick, button)
 end
 
 function interface.drawPanelScreen(x, y, offset)
-    local width, height, fullscreen, vsync, fsaa = love.graphics.getMode()
+    local width, height, fullscreen, vsync, fsaa = love.graphics:getMode()
 
     love.graphics.print("Screen:", x, y + offset * 1)
     love.graphics.print("-------", x, y + offset * 1 + 8)

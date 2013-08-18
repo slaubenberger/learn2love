@@ -14,10 +14,13 @@ Menu and multi file example
 ### demo003
 Skeleton structure for my future projects, incl. debug and screen resizing
 
+### demo004
+Simple test of "LöveFrames" [https://github.com/NikolaiResokav/LoveFrames]("LöveFrames homepage")
+
 ## Links
 - [http://www.love2d.org]("löve homepage") 
 - [http://www.lua.org/]("Lua homepage") 
 - [http://en.wikipedia.org/wiki/Lua_%28programming_language%29](Lua (Wikipedia))
 
 
-`Version: 05.08.2013 03:10 CEST`
+`Version: 18.08.2013 13:47 CEST`

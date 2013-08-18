@@ -26,7 +26,7 @@ function mcp.run()
 
 	manager_theme.use("standard")
 
-	-- love.graphics.setMode(2560, 1440, true, true, 0);
+	-- love.graphics.setMode(configTable.screen.width, configTable.screen.height, configTable.screen.fullscreen, configTable.screen.vsync, configTable.screen.fsaa);
 	-- love.graphics.toggleFullscreen()
 
 	mcp.mainmenu()
