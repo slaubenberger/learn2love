@@ -1,7 +1,7 @@
 local objects = {}
 local score = 0
-local lifes = 3
-local misses = 25
+local lifes = 5
+local misses = 30
 local hasHit = false
 local ballonsCreated = 0
 local ballonsShot = 0
@@ -15,7 +15,7 @@ function love.load()
 	sfxShot = love.audio.newSource("shot.ogg", "static")
 	sfxMiss = love.audio.newSource("miss.ogg", "static")
 	sfxGameover = love.audio.newSource("gameover.ogg", "static")
-	music = love.audio.newSource("music.ogg", "stream")
+	music = love.audio.newSource("music.ogg", "stream") -- from http://www.uniquetracks.com/Free-Music-Loops.html "PhotoOp"
 
 	sfxMiss:setVolume(0.5)
 	sfxShot:setVolume(0.5)
@@ -123,7 +123,7 @@ function createBallon()
 		radius = math.random(8, 96),
 		id = nil,
 		color = {math.random(1, 255), math.random(1, 255), math.random(1, 255)},
-		speed = math.random(1.0, 2.5),
+		speed = math.random(1.0, 4.5),
 		points = 0,
 
 		update = function (dt)

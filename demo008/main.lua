@@ -5,7 +5,7 @@ function love.load()
 
 	love.mouse.setVisible(false)
 
-	sound = love.sound.newSoundData("sound/playme.mp3") -- from DJ Cain "Night Nurse"
+	sound = love.sound.newSoundData("sound/playme.ogg") -- from http://www.uniquetracks.com/Free-Music-Loops.html "Summer Night"
 	-- sound = love.sound.newSoundData("sound/500Hz.mp3") -- from http://www.audiocheck.net/
 	-- sound = love.sound.newSoundData("sound/leftchannel.mp3") -- from http://www.audiocheck.net/
 
