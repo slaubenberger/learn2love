@@ -24,7 +24,10 @@ Testing some "oo"-like techniques with tables
 Psychodelic ellipses ;-)
 
 ### demo007
-First real game: Ballon shooter
+*First real game:* Ballon shooter
+
+### demo008
+Yeah, sound visualisation in Lua!
 
 ## Links
 ### Löve2D, Lua and Libraries
@@ -69,4 +72,4 @@ First real game: Ballon shooter
 ### Repo
 - [Github Repo](https://github.com/slaubenberger/learn2love)
 
-`Version: 19.08.2013 01:07 CEST`
+`Version: 20.08.2013 03:25 CEST`
